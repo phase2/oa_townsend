@@ -3,6 +3,7 @@ description = Townsend Security is helping the community by helping sponsor a su
 core = 7.x
 package = Open Atrium
 project = oa_townsend
+dependencies[] = aes
 dependencies[] = key
 dependencies[] = encrypt
 dependencies[] = encrypt_user
