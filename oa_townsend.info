@@ -11,6 +11,7 @@ dependencies[] = encrypted_files
 dependencies[] = field_encrypt
 dependencies[] = webform_encrypt
 dependencies[] = townsec_key
+dependencies[] = webform
 apps[screenshots][] = app/screenshot.png
 apps[logo] = app/logo.png
 apps[author] = Phase2 Technology
